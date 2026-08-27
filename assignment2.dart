@@ -39,7 +39,7 @@ void main(){
 
      percentageofclassattended=(numberofclassesattended/numberofclassesheld)*100;
      
-     print("percentage of class attended: $percentageofclassattended");
+     print("percentage of class attended: $percentageofclassattended%");
 
      if(percentageofclassattended>=75){
         print("he/she is allowed to sit in exam");
@@ -63,8 +63,8 @@ void main(){
    }
 
    else{
-    print("$year is not not leap year");
-
+    print("$year is  not leap year");
+   }
 
    print("\n====question5====");
 
@@ -97,7 +97,7 @@ void main(){
     print("this is vowel");
    }
    else{
-    print("this is constant");
+    print("this is consonant");
    }
 
    print("\n====question7====");
