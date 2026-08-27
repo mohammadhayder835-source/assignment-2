@@ -13,7 +13,7 @@ void main(){
         print("This is rectangle");
     }
 
-    print("\n====question1====");
+    print("\n====question2====");
 
     int age1= 20;
     int age2= 18;
